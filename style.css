@@ -1,0 +1,93 @@
+.s1-a {
+  border-right: 1px solid #08bf2d;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.s1-a1 {
+  border-left: 1px solid #08bf2d;
+}
+.nav-link {
+  color: #08bf2d;
+}
+.nav-link:hover {
+  font-size: 25px;
+}
+/* ---section 2--- */
+.s2-div {
+  position: relative;
+  bottom: 213px;
+  right: 10%;
+
+  text-align: start;
+}
+.s2-h1 {
+  font-size: 450%;
+}
+/* ---section 4-- */
+.s4-col {
+  padding-top: 100px;
+}
+/* ----section 5--- */
+.s5-span {
+  position: relative;
+  bottom: 50px;
+  font-size: 40px;
+  background-color: white;
+  color: #08bf2d;
+}
+.s5-span1 {
+  position: relative;
+  bottom: 50px;
+  font-size: 40px;
+  background-color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  color: #08bf2d;
+}
+.s5-span2 {
+  position: relative;
+  bottom: 50px;
+  font-size: 40px;
+  background-color: white;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  color: #08bf2d;
+}
+/* ----section 6---- */
+.s6-div {
+  padding-left: 40px;
+}
+/* ----section 7--- */
+.s7-a {
+  color: black;
+  text-decoration: none;
+}
+.s7-a:hover {
+  color: #08bf2d;
+  text-decoration: underline;
+}
+.s7-img {
+  border-radius: 10px;
+}
+.s7-div {
+  border-radius: 10px;
+}
+/* ----section 8---- */
+.s8-span {
+  border-radius: 50%;
+  border: 1px solid forestgreen;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.s8-d {
+  margin-top: 210px;
+}
+.s8-img {
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 10px;
+}
+/* ----section 9---- */
